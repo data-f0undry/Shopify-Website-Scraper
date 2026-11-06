@@ -1,0 +1,14 @@
+# Shopify Website Scraper
+
+> Extract a shopify store's products, variants, collections, pages, blogs, menus or policies.
+
+- Actor: data_foundry/shopify-scraper
+- URL: https://apify.com/data_foundry/shopify-scraper
+- Publisher: Data Foundry (https://apify.com/data_foundry)
+- Category: E-commerce
+- Pricing: $1.50 per 1,000 items; pay per event, no subscription, failures not billed
+- Input: store URLs and a list of resources
+- Output: products with variants, collections, pages, posts, menus, policies as JSON
+- Run: apify call data_foundry/shopify-scraper
+- API: POST https://api.apify.com/v2/acts/data_foundry~shopify-scraper/runs
+- More actors: https://apify.com/data_foundry
