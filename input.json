@@ -1,0 +1,9 @@
+{
+    "storeUrls": [
+        "https://www.allbirds.com"
+    ],
+    "resources": [
+        "products"
+    ],
+    "includeVariants": true
+}
