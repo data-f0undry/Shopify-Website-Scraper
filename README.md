@@ -5,7 +5,7 @@
 
 Scrape any Shopify store's public catalogue - products, variants, collections, pages, blogs, menus and policies. No API key, no token, no browser.
 
-Every Shopify storefront exposes a public product catalogue to its own front-end. This Actor reads those endpoints directly, so you get the same data the shop shows a visitor, without creating an app or asking for credentials.
+Every Shopify storefront exposes a public product catalogue. This Actor reads that public data directly, so you get the same data the shop shows a visitor, without creating an app or asking for credentials.
 
 ## Quick facts
 
